@@ -1,4 +1,6 @@
 # Smart China DNS
+[![Code Quality](https://www.code-inspector.com/project/4547/score/svg)](https://frontend.code-inspector.com/public/project/4547/SmartChinaDNS/dashboard)
+[![Code Grade](https://www.code-inspector.com/project/4547/status/svg)](https://frontend.code-inspector.com/public/project/4547/SmartChinaDNS/dashboard)
 
 这是一个更好的 ChinaDNS，旨在用最智能的方式返回正确的结果。
 
